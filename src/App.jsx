@@ -37,7 +37,7 @@ const App = () => {
       </header>
 
       {/* Main Content */}
-      <main className="w-full max-w-5xl w-11/12 py-8">
+      <main className="w-full max-w-5xl w-11/12 py-8 px-4 lg:px-0">
         <div className="border-b flex justify-between items-center border-gray-500 dark:border-gray-700 py-4">
           <h2 className="text-xl font-semibold">Blog Posts</h2>
           <button
