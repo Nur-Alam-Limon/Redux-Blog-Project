@@ -4,6 +4,11 @@ A responsive blog application built with **React**, **Redux Toolkit**, and **Tai
 
 ---
 
+## 🌐 Live Demo
+[https://redux-blog-project.netlify.app/](https://redux-blog-project.netlify.app/)
+
+---
+
 ## 🚀 Features
 
 - **Add, Edit, and Delete Posts** with an intuitive UI.
