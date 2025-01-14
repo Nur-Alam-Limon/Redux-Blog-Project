@@ -134,8 +134,8 @@ A responsive blog application built with **React**, **Redux Toolkit**, and **Tai
 
 For any inquiries or feedback, feel free to reach out:
 
-- **GitHub**: [your-username](https://github.com/Nur-Alam-Limon)
-- **Email**: your-nuralam201425@gmail.com
+- **GitHub**: [Nur-Alam-Limon](https://github.com/Nur-Alam-Limon)
+- **Email**: nuralam201425@gmail.com
 
 ---
 
